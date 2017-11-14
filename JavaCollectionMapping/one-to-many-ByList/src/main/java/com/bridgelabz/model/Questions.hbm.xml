@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 11 Nov, 2017 11:56:20 AM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.bridgelabz.model.Questions" table="QUESTIONS">
+        <id name="id" type="int">
+            <column name="ID" />
+            <generator class="assigned" />
+        </id>
+        <property name="qname" type="java.lang.String">
+            <column name="QNAME" />
+        </property>
+        <list name="answer" inverse="false" table="ANSWERS" lazy="true">
+            <key>
+                <column name="ID" />
+            </key>
+            <list-index></list-index>
+            <one-to-many class="com.bridgelabz.model.Answers" />
+        </list>
+    </class>
+</hibernate-mapping>

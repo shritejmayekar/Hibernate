@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/spcorejars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/spcorejars/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/spcorejars/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/spcorejars/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/spcorejars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/spcorejars/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/spcorejars/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/spcorejars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/asm.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/hibernate3.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/jta.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Desktop/shritej/hibernatejar/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="/home/bridgeit/Downloads/mysql-connector.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
